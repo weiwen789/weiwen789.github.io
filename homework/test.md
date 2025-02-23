@@ -22,8 +22,6 @@
 - **Sequence**  
     revolution of sequencing technologies: **NGS**  
 - Metagenomics  
-     - Environmental  
-     - Organismal  
 3. Analysis  *(data clean & feature extraction)*
 - **bioinformatics tools**  
 4. Modeling 
@@ -56,7 +54,9 @@
 - Week13-16
     - 学习Python
     - 尝试阅读《Bioinformatics Data Skills》推荐章节
+  
 ## PART 2&3 Basic Analysis & NGS Data Analyses  
   根据课程进度提前预习和学习相应模块  
+  
 ## PART 4 Machine Learning & AI   
 -  Week 11-15：学习机器学习部分的optional material
