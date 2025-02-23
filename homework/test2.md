@@ -26,12 +26,12 @@
 - **bioinformatics tools**  
 4. Modeling 
 - Machine Leaning Models
-   - Linear Regression/Logistic Regression
-   - Neural Network Model(Deep Learning)  
+  - Linear Regression/Logistic Regression
+  - Neural Network Model(Deep Learning)  
         Inputs -> Hidden layer -> Output -> Optimize -> ...  
 - Computational Algorithms  
-   - Number Sorting Algorithm
-   - Dynamic Progranmming Algorithm  
+  - Number Sorting Algorithm
+  - Dynamic Progranmming Algorithm  
 - **Relationship of Model and Algorithm**  
    - Model: describle the possible logic between data, which **is trained using algorithms**  
    - Algorithm: a **logical procedure** to obtain outcomes  
