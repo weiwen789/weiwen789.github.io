@@ -58,5 +58,5 @@
     - 尝试阅读《Bioinformatics Data Skills》推荐章节
 ## PART 2&3 Basic Analysis & NGS Data Analyses  
   根据课程进度提前预习和学习相应模块  
-## PART 4 Machine Learning & AI  
-- Week 11-15：学习机器学习部分的optional material
+## PART 4 Machine Learning & AI   
+-  Week 11-15：学习机器学习部分的optional material
