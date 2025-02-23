@@ -22,8 +22,8 @@
 - **Sequence**  
     revolution of sequencing technologies: **NGS**  
 - Metagenomics  
-    - Environmental  
-    - Organismal  
+     - Environmental  
+     - Organismal  
 3. Analysis  *(data clean & feature extraction)  
 - **bioinformatics tools**  
 4. Modeling 
